@@ -143,5 +143,3 @@ Set the `NEXT_PUBLIC_WEB3FORMS_KEY` environment variable in your Vercel project 
 Capicord is a Lending Service Provider (LSP). Capicord does not lend money, approve loans, or disburse funds. All lending is done by our partner NBFCs who are registered and regulated by the Reserve Bank of India.
 
 © 2025 Capicord Fintech Pvt. Ltd. All rights reserved.
-
-
